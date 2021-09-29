@@ -17,4 +17,4 @@ Me gusta los videojuegos.
 
 Salir al cine 
 
-Mi correo es  [gmail](https://mail.google.com/mail/u/1/#inbox).
+Mi correo es alvaro.lira@utec.edu.pe
