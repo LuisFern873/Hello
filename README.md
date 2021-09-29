@@ -16,12 +16,6 @@ This is me
 
 C/C++
 
-const alessandrohuaytac = {
-pronouns:"he" | "him"
-age: 18
-code: [C++, Python, HTML, CSS],
-}
-
 Python
 
 ⚙️ Things that I want to learn in the upcoming year
